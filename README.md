@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Archita Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Backend :) **
+- 🌱 I’m currently learning **Backend :)**
 
 - 📫 How to reach me **archichaudhary2004@gmail.com**
 
